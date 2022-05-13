@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ivan </h1> 
+<h1 align="center">Hi 👋, I'm Ivan <img src="https://avatars.alphacoders.com/avatars/view/294734"></h1> 
 <h3 align="center">Web developer</h3>
 <p aling="center">
 <a href="#"> <img src="https://i.postimg.cc/Y9jqtmsT/portada.gif" height="100%" width="100%"/></a>  
